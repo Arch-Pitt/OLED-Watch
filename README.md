@@ -22,8 +22,7 @@ A cada segundo, o relógio incrementa os segundos, minutos e horas.
 
 Ao passar de 23:59:59, o dia, mês e ano são atualizados corretamente, incluindo ajuste para fevereiro em anos bissextos.
 
-O display é atualizado com dois buffers: 
-hora e data, usando fontes diferentes para melhor leitura.
+O display é atualizado com dois buffers: hora e data, usando fontes diferentes para melhor leitura.
 
 ### 🛠️ Componentes
 
