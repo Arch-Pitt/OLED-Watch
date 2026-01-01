@@ -18,7 +18,7 @@ O cálculo do dia da semana é feito usando a fórmula de Zeller, e o código ta
 
 O Arduino controla o display OLED via I2C usando a biblioteca U8g2.
 
-A cada segundo (millis()), o relógio incrementa os segundos, minutos e horas.
+A cada segundo [millis()], o relógio incrementa os segundos, minutos e horas.
 
 Ao passar de 23:59:59, o dia, mês e ano são atualizados corretamente, incluindo ajuste para fevereiro em anos bissextos.
 
