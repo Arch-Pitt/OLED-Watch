@@ -1,6 +1,6 @@
 ## **Relógio Digital com Arduino e Display OLED**
 
-Um relógio digital simples feito com Arduino Uno e um display OLED 128x64, que mostra hora, minutos, segundos, data e dia da semana em tempo real.
+Um relógio digital simples feito com um Arduino Uno e um display OLED 128x64, que mostra hora, minutos, segundos, data e dia da semana em tempo real.
 
 ### 🖥️ Sobre o Projeto
 
